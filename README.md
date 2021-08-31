@@ -9,4 +9,4 @@ it includes the following:
 * MS-SQL
 
 Over time we will add more databases. All contributions are welcome. If
-you would like to contibute please first create and issue that you would like to solve and the submit a pull request.
+you would like to contibute please first create an issue that you would like to solve and the submit a pull request.
